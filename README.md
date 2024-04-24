@@ -3,11 +3,13 @@ Hi, I'm David Nathan Cornelison, Nathan for short. I'm a Junior Level Software D
 
 ## Active Projects
 [SkyCore](https://github.com/P1Gaming/SkyCore)
+
 [Catpocalypse](https://github.com/mspangenberg03/Catpocalypse)
 
 ## Past Projects
 [PackScheduler](https://github.com/nate3323/PackScheduler)
-[Movieatabase](https://github.com/nate3323/movie-database)
+
+[Moviedatabase](https://github.com/nate3323/movie-database)
 
 <!---
 nate3323/nate3323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
