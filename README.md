@@ -1,8 +1,13 @@
-- 👋 Hi, I’m David Nathan Cornelison
-- 👀 I’m interested in working on AI/ML projects and games using Java, C++ and/or the Unreal Engine.
-- 🌱 I’m currently learning the Unreal Engine. I am also proficient in Java, C, and C++.
-- 💞️ I’m looking to collaborate on projects using Java, C or C++ to maintain proficiency with these languages
-- 📫 I can be reached at ncornelison24@gmail.com
+# Welcome to my Github Page
+Hi, I'm David Nathan Cornelison, Nathan for short. I'm a Junior Level Software Developer who has worked on a variety of projects and am actively searching for employment opportunities. Currently, I am actively working on C#, .Net, and Unity projects, although I have also worked on Java, C, and C++ projects in the past. I can be reached at ncornelison24@gmail.com
+
+## Active Projects
+[SkyCore](https://github.com/P1Gaming/SkyCore)
+[Catpocalypse](https://github.com/mspangenberg03/Catpocalypse)
+
+## Past Projects
+[PackScheduler](https://github.com/nate3323/PackScheduler)
+[Movieatabase](https://github.com/nate3323/movie-database)
 
 <!---
 nate3323/nate3323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
