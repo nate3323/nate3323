@@ -6,11 +6,6 @@ Hi, I'm David Nathan Cornelison, Nathan for short. I'm a Junior Level Software D
 
 [Catpocalypse](https://github.com/mspangenberg03/Catpocalypse) | [Current Build](https://nate3323.itch.io/catpocalypse)
 
-## Past Programming Projects
-[PackScheduler](https://github.com/nate3323/PackScheduler)
-
-[Moviedatabase](https://github.com/nate3323/movie-database)
-
 ## Released Games
 [Fated Traveler](https://nate3323.itch.io/fated-traveler)
 
@@ -19,7 +14,10 @@ Hi, I'm David Nathan Cornelison, Nathan for short. I'm a Junior Level Software D
 
 [Fortnite Creative Documentation](https://dev.epicgames.com/documentation/en-us/fortnite-creative/storm-wars-in-fortnite-creative)
 
+## Past Programming Projects
+[PackScheduler](https://github.com/nate3323/PackScheduler)
 
+[Moviedatabase](https://github.com/nate3323/movie-database)
 <!---
 nate3323/nate3323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
