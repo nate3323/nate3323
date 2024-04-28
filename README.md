@@ -1,5 +1,5 @@
 # Welcome to my Github Page
-Hi, I'm David Nathan Cornelison, Nathan for short. I'm a Junior Level Software Developer who has worked on a variety of projects and am actively searching for employment opportunities. Currently, I am actively working on C#, .Net, and Unity projects, although I have also worked on Java, C, and C++ projects in the past, as well as a number of other engines. I can be reached at ncornelison24@gmail.com. For 
+Hi, I'm David Nathan Cornelison, Nathan for short. I'm a Junior Level Software Developer who has worked on a variety of projects and am actively searching for employment opportunities. Currently, I am actively working on C#, .Net, and Unity projects. I have also worked on Java, C, and C++ projects in the past, including Unreal Engine projects. I can be reached at ncornelison24@gmail.com. For 
 
 ## Active Projects
 [SkyCore](https://github.com/P1Gaming/SkyCore) | [Current Build](https://redeagle-p1.itch.io/skyjellies)
