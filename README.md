@@ -12,12 +12,14 @@ For employment inquireie or palytest feedback, I can be reached at ncornelison24
 
 Catpocalypse | [Current Build](https://nate3323.itch.io/catpocalypse)
 
-## Released Games
-[Fated Traveler](https://nate3323.itch.io/fated-traveler)
-
 ## Active Technical Documentation Work
 
 [Fortnite Creative Documentation](https://dev.epicgames.com/documentation/en-us/fortnite-creative/storm-wars-in-fortnite-creative)
+
+[P1 Games Programming Documentation](https://p1programming.notice.site/)
+
+## Released Games
+[Fated Traveler](https://nate3323.itch.io/fated-traveler)
 
 ## Past Projects
 [SkyCore](https://github.com/P1Gaming/SkyCore) | [Current Build](https://redeagle-p1.itch.io/skyjellies)
