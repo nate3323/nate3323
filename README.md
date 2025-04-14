@@ -1,10 +1,11 @@
 # Welcome to my Github Page
 Hi, I'm David Nathan Cornelison, Nathan for short. I'm a Software Developer who has worked on a variety of projects and am actively searching for employment opportunities. I have experience working in multiple contexts, including as a software developer, technical writer, data analyst, and data trainer. I am actively working on a Unity project, Catpocalypse. The current build version is available for playtesting at the link below.
 
-Other tech stacks I've used include:
-- Java Enivornments (Java, JUnit, Intellij, Jenkins, Eclipse)
+Tech Environments and skills I am familiar with:
+- .Net Environments (C#, .Net, 
+- Java Enivronments (Java, JUnit, Intellij, Jenkins, Eclipse)
 - Unreal Engine 4/5 (C++, Blueprints, Visual Studio)
-- Python 
+- Data Analysis (Python,  pandas, Numpy, MySQL, SQL)
 
 For employment inquiries or playtest feedback, I can be reached at ncornelison24@gmail.com.
 
