@@ -11,7 +11,7 @@ For employment inquiries or playtest feedback, I can be reached at ncornelison24
 
 ## Active Projects
 
-Catpocalypse | [Current Build](https://nate3323.itch.io/catpocalypse)
+Catpocalypse | [Demo Codebase](https://github.com/nate3323/CatpocalypseDemo) | [Current Build](https://nate3323.itch.io/catpocalypse)
 
 ## Active Technical Documentation Work
 
